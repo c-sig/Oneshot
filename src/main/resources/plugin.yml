@@ -1,0 +1,6 @@
+name: Oneshot
+version: '${version}'
+main: net.sisig.oneshot.Main
+api-version: 1.18
+authors: [ sisig ]
+description: Minecraft but with HIV
